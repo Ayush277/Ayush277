@@ -1,5 +1,5 @@
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayushkumar481) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkr.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushk277) 
 
