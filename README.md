@@ -1,5 +1,5 @@
 
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3329508-Nocturnetting-animated-GIF-illustration&psig=AOvVaw2HmhPdXeqE9SdDGcJM9PIu&ust=1727975238411000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCOD8i8SX8IgDFQAAAAAdAAAAABCaAQ)"
+img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3329508-Nocturnetting-animated-GIF-illustration&psig=AOvVaw2HmhPdXeqE9SdDGcJM9PIu&ust=1727975238411000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCOD8i8SX8IgDFQAAAAAdAAAAABCaAQ"
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayushkumar481) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkr.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushk277) 
 
