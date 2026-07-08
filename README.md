@@ -50,7 +50,7 @@ Passionate about building products that scale at 100K+ users
 **Backend Engineer** • Sep 2025 – Apr 2026
 
 ```
-10,000+ students  │  Scalable APIs  │  FastAPI · MongoDB · Docker
+Scalable APIs  │  FastAPI 
 ```
 
 </div>
