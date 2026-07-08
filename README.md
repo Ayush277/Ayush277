@@ -8,7 +8,7 @@
 
 🎓 **CSE '27 @ SRM Chennai** | 🏢 **Samsung PRISM** | 🏆 **2× Hackathon Winner**
 
-[Portfolio](https://ayushkdev.vercel.app/) • [LinkedIn](https://linkedin.com/in/ayushkumar277) • [LeetCode](https://leetcode.com/u/Happy277/) • [Email](mailto:prince908ayush@gmail.com)
+[Portfolio](https://ayushkdev.vercel.app/) • [LinkedIn](https://linkedin.com/in/ayushkumar277) • [Email](mailto:prince908ayush@gmail.com)
 
 </div>
 
@@ -18,66 +18,73 @@
 
 Full-stack engineer building **AI-powered systems** that scale. Passionate about backend architecture, machine learning, and shipping products that matter.
 
+**GPA:** 9.01/10 | **CSE '27** | **SRM Chennai**
+
 ---
 
 ## 💼 Experience
 
-**🏢 Samsung PRISM** — Research Intern *(Mar 2025 – Aug 2025)*
-- Processed 100K+ records • Improved accuracy 78% → 97%
-- Python, NumPy, Pandas, ML pipelines
+<details open>
+<summary><b>🏢 Samsung PRISM — Research Intern</b> <code>Mar 2025 – Aug 2025</code></summary>
 
-**💻 resumerite** — Backend Engineer *(Sep 2025 – Apr 2026)*
-- Scaled placement workflows for 10,000+ students
-- FastAPI, MongoDB, Docker, REST APIs
+Processing 100K+ business records with intelligent pipelines
+- 📈 Improved model accuracy: 78% → 97%
+- 🔧 Built production Python workflows  
+- 🧠 Feature engineering & optimization
 
-**📚 Published Researcher** *(2026)*
-- BiLSTM with SHAP attention • Reviewer for SMM4H-HeaRD
+**Tech:** Python, NumPy, Pandas, ML
+
+</details>
+
+<details open>
+<summary><b>💻 resumerite — Backend Engineer</b> <code>Sep 2025 – Apr 2026</code></summary>
+
+Scaling placement workflows for 10,000+ students
+- 🏗️ Designed scalable backend architecture
+- 🔌 Built robust REST APIs with OOP
+- ⚙️ Optimized system performance
+
+**Tech:** FastAPI, MongoDB, Docker, REST APIs
+
+</details>
+
+<details open>
+<summary><b>📚 Published Researcher</b> <code>2026</code></summary>
+
+Dual-Head BiLSTM with SHAP-Based Temporal Attention
+- 📊 Time-to-Stress Prediction in Precision Agriculture
+- 🔬 First Author Publication
+- 👥 Reviewer for SMM4H-HeaRD 2026
+
+**Tech:** TensorFlow, Python, Deep Learning
+
+</details>
 
 ---
 
-## 🎮 Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| 🤖 **MeetStream AI** | LLM, Speech-to-Text | Live |
-| 📊 **Decision Intelligence** | ML, REST APIs, Python | Live |
-| 🌾 **Stress Prediction** | BiLSTM, XAI, TensorFlow | Published |
-| 🍕 **FreshOps AI** | CV, AWS, Docker | Complete |
-
----
-
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-
----
-
-## 🏆 Highlights
+## 🏆 Achievements
 
 ```
-🥇 1st Place: IntelliHack SRM
-🥇 AIR 3: BITS Hyderabad Hackathon  
-🔥 Top 50: Smart India Hackathon (2024, 2025)
-📝 Published Research • 250+ LeetCode Problems
-👥 Led 100+ members @ NSCC SRM
+✨ HACKATHONS & COMPETITIONS
+   ├─ 🥇 1st Place: IntelliHack SRM
+   ├─ 🥇 AIR 3: BITS Hyderabad Hackathon
+   └─ 🔥 Top 50: Smart India Hackathon (2024, 2025)
+
+📚 RESEARCH & ACADEMIA
+   ├─ 📝 First Author Publication
+   ├─ 👥 Selected Reviewer: SMM4H-HeaRD 2026
+   └─ 🎓 GPA: 9.01/10 (B.Tech CSE, SRM)
+
+👥 LEADERSHIP
+   ├─ Director of Creatives Domain (NSCC SRM)
+   ├─ Led 100+ member organization
+   └─ Executed HackNova 3.0 & major initiatives
+
+🌐 OPEN SOURCE
+   ├─ Hacktoberfest Contributor
+   ├─ Code reviews & quality improvements
+   └─ Active in developer communities
 ```
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush277&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide_border=true)
-
-</div>
 
 ---
 
@@ -85,6 +92,6 @@ Full-stack engineer building **AI-powered systems** that scale. Passionate about
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=4000&pause=1000&color=a78bfa&center=true&width=400&lines=Building+intelligent+systems...;Always+learning.+Always+shipping." alt="Footer" />
 
-**[Email](mailto:prince908ayush@gmail.com) • [LinkedIn](https://linkedin.com/in/ayushkumar277) • [Portfolio](https://ayushkdev.vercel.app/)**
+**[Portfolio](https://ayushkdev.vercel.app/) • [LinkedIn](https://linkedin.com/in/ayushkumar277) • [Email](mailto:prince908ayush@gmail.com)**
 
 </div>
